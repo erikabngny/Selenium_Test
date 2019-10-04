@@ -201,3 +201,10 @@ JavaScript warning: https://static.parastorage.com/services/third-party/jquery/2
 1568104886664	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
 1568104886664	Marionette	INFO	Stopped listening on port 55264
 1568104886664	Marionette	DEBUG	Remote service is inactive
+1570175928067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j1/q7_f11ds4wl54v4djgqlny_40000gn/T/rust_mozprofile.rdZn50muoQXn"
+1570175929051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570175929051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570175929052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570175929052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570175930809	Marionette	INFO	Listening on port 59674
+1570176083548	Marionette	INFO	Stopped listening on port 59674
