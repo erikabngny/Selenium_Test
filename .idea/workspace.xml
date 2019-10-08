@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b9e260-75f7-4c26-acd3-457cdd74a9a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/workingwithelements/ElementState.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workingwithelements/RadioButtonsAndCheckboxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workingwithelements/WorkingWithElementsList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workingwithelements/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/workingwithelements/geckodriver.log" afterDir="false" />
     </list>
@@ -50,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RadioButtonsAndCheckboxes">
+  <component name="RunManager" selected="Python.WorkingWithElementsList">
     <configuration name="BrowserInteractions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RunChromeTests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="WorkingWithElementsList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RunTestBrowsers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workingwithelements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RunTestBrowsers/RunChromeTests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workingwithelements/WorkingWithElementsList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,19 +156,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.RunChromeTests" />
       <item itemvalue="Python.BrowserInteractions" />
       <item itemvalue="Python.ClickAndSendKeys" />
       <item itemvalue="Python.ElementState" />
       <item itemvalue="Python.RadioButtonsAndCheckboxes" />
+      <item itemvalue="Python.WorkingWithElementsList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.WorkingWithElementsList" />
         <item itemvalue="Python.RadioButtonsAndCheckboxes" />
         <item itemvalue="Python.ElementState" />
         <item itemvalue="Python.ClickAndSendKeys" />
         <item itemvalue="Python.BrowserInteractions" />
-        <item itemvalue="Python.RunChromeTests" />
       </list>
     </recent_temporary>
   </component>
