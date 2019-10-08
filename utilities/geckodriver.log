@@ -53,3 +53,21 @@
 1570525831586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1570525833088	Marionette	INFO	Listening on port 61764
 1570525833162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570526016899	Marionette	INFO	Stopped listening on port 61764
+1570526976602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j1/q7_f11ds4wl54v4djgqlny_40000gn/T/rust_mozprofile.YR3y2jf6MYi5"
+1570526977073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570526977074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570526977074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570526977074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570526978582	Marionette	INFO	Listening on port 50175
+1570526978665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.stripe.com/v3/fingerprinted/js/controller-3a2c868b67719ca1b1cbe27b9dcdd4c3.js, line 1: ReferenceError: webpackJsonp is not defined
+1570527020232	Marionette	INFO	Stopped listening on port 50175
+1570527031043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j1/q7_f11ds4wl54v4djgqlny_40000gn/T/rust_mozprofile.vzHNoI4WAQ12"
+1570527031462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570527031462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570527031462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570527031462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570527032850	Marionette	INFO	Listening on port 50484
+1570527032900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.stripe.com/v3/fingerprinted/js/controller-3a2c868b67719ca1b1cbe27b9dcdd4c3.js, line 1: ReferenceError: webpackJsonp is not defined
