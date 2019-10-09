@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b9e260-75f7-4c26-acd3-457cdd74a9a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/utilities/dynamic_xpath_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/explicit_wait_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/explicit_wait_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/explicit_wait_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/implicit_wait_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utilities/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/handy_wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/handy_wrappers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dynamic_xpath_format">
+  <component name="RunManager" selected="Python.explicit_wait_demo2">
     <configuration name="dynamic_xpath_format" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getAttribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="explicit_wait_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/getAttribute.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/explicit_wait_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getText" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="explicit_wait_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/getText.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/explicit_wait_demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="usingWrappers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="implicit_wait_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/usingWrappers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/implicit_wait_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,19 +162,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.getText" />
-      <item itemvalue="Python.getAttribute" />
-      <item itemvalue="Python.usingWrappers" />
       <item itemvalue="Python.element_present_check" />
       <item itemvalue="Python.dynamic_xpath_format" />
+      <item itemvalue="Python.implicit_wait_demo" />
+      <item itemvalue="Python.explicit_wait_demo" />
+      <item itemvalue="Python.explicit_wait_demo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.explicit_wait_demo2" />
+        <item itemvalue="Python.explicit_wait_demo" />
+        <item itemvalue="Python.implicit_wait_demo" />
         <item itemvalue="Python.dynamic_xpath_format" />
         <item itemvalue="Python.element_present_check" />
-        <item itemvalue="Python.usingWrappers" />
-        <item itemvalue="Python.getAttribute" />
-        <item itemvalue="Python.getText" />
       </list>
     </recent_temporary>
   </component>

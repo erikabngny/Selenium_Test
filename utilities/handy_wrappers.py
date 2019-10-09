@@ -5,6 +5,10 @@ import time
 class HandyWrappers():
 
     def __init__(self, driver):
+        """
+
+        :rtype: object
+        """
         self.driver = driver
 
     def getByType(self, locatorType):
