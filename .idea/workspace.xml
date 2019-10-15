@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b9e260-75f7-4c26-acd3-457cdd74a9a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/actions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/drag_and_drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/mouse_hovering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/sliders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/LoggingDemo2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/custom_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/logging.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/logging_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/logging_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/logging_demo_conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/logging_demo_console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loggingpackage/logging_format.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,17 +34,18 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/actions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/loggingpackage" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/loggingpackage" />
       <recent name="$PROJECT_DIR$/actions" />
       <recent name="$PROJECT_DIR$/advanced" />
       <recent name="$PROJECT_DIR$/utilities" />
       <recent name="$PROJECT_DIR$/workingwithelements" />
-      <recent name="$PROJECT_DIR$/FindElement" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -54,8 +60,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sliders">
-    <configuration name="drag_and_drop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.logging_demo2">
+    <configuration name="logging_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/actions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/actions/drag_and_drop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingpackage/logging_demo1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mouse_hovering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logging_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/actions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/actions/mouse_hovering.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingpackage/logging_demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sliders" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logging_demo_conf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/actions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/actions/sliders.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingpackage/logging_demo_conf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="switch_to_alert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logging_demo_console" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced/switch_to_alert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingpackage/logging_demo_console.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="switch_to_frame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logging_format" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced/switch_to_frame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingpackage/logging_format.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,19 +167,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.switch_to_frame" />
-      <item itemvalue="Python.switch_to_alert" />
-      <item itemvalue="Python.mouse_hovering" />
-      <item itemvalue="Python.drag_and_drop" />
-      <item itemvalue="Python.sliders" />
+      <item itemvalue="Python.logging_demo1" />
+      <item itemvalue="Python.logging_format" />
+      <item itemvalue="Python.logging_demo_console" />
+      <item itemvalue="Python.logging_demo_conf" />
+      <item itemvalue="Python.logging_demo2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sliders" />
-        <item itemvalue="Python.drag_and_drop" />
-        <item itemvalue="Python.mouse_hovering" />
-        <item itemvalue="Python.switch_to_alert" />
-        <item itemvalue="Python.switch_to_frame" />
+        <item itemvalue="Python.logging_demo2" />
+        <item itemvalue="Python.logging_demo_conf" />
+        <item itemvalue="Python.logging_demo_console" />
+        <item itemvalue="Python.logging_format" />
+        <item itemvalue="Python.logging_demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -210,5 +216,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
