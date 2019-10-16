@@ -1,5 +1,6 @@
 import unittest
 
+
 class TestCAseDemo2(unittest.TestCase):
 
     @classmethod
@@ -25,6 +26,7 @@ class TestCAseDemo2(unittest.TestCase):
         print("**********************")
         print("I will run only once after all tests")
         print("**********************")
+
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)
